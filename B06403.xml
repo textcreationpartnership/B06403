@@ -1,0 +1,227 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The unthankful servant: or, A scolding match between two cracks of the town, Margery Merrythought, and Nancy her mistress, who taught her her trade. As they happened to meet near the Piazza's in Covent-Garden. To the tune of If Love's a sweet passion. Licensed according to order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688-1692?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06403</idno>
+            <idno type="STC">Wing U96</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.39.k.6[8]</idno>
+            <idno type="EEBO-CITATION">99887381</idno>
+            <idno type="PROQUEST">ocm99887381</idno>
+            <idno type="VID">182094</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06403)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182094)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A3:1[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The unthankful servant: or, A scolding match between two cracks of the town, Margery Merrythought, and Nancy her mistress, who taught her her trade. As they happened to meet near the Piazza's in Covent-Garden. To the tune of If Love's a sweet passion. Licensed according to order.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : music.  </extent>
+               <publicationStmt>
+                  <publisher>printed for P[hilip]. Brooksby, J[onah]. Deacon, J[osiah]. Blare, and J[ohn]. Back,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[between 1688-1692]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publisher's names, place and date of publication from Wing.</note>
+                  <note>Verse: "VVell met, my dear sister, you're grown very strange ..."</note>
+                  <note>Printed in two columns.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:182094:1" rendition="simple:additions"/>
+            <head>The Unthankful Servant: OR, A Scolding Match between Two <hi>CRACKS</hi> of the <hi>TOWN, <hi>Margery Merrythought,</hi> and <hi>Nancy</hi> her Miſtreſs, who taught her her Trade. As they happened to meet near the <hi>Piazza</hi>'s in <hi>Covent-Garden.</hi>
+               </hi>
+            </head>
+            <opener>To the Tune of <hi>If Love's a ſweet Paſſion.</hi>
+            </opener>
+            <p>Licenſed according to Order.</p>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <lg n="1">
+               <head>I.</head>
+               <l>WEll met, my dear Siſter, you're grown very ſtrange,</l>
+               <l>For tho' every night thro' the City I range,</l>
+               <l>I have never beheld you this ſix Weeks or more;</l>
+               <l>Have you ſuch a full Trade at your Beldams own door,</l>
+               <l>Without taking of pains for to walk too and fro?</l>
+               <l>It is well for you <hi>Margery,</hi> if it be ſo.</l>
+            </lg>
+            <lg n="2">
+               <head>II.</head>
+               <l>Why <hi>Nancy</hi> what makes you diſcourſe at this rate,</l>
+               <l>It is very well known, that I ne'er want a Mate;</l>
+               <l>I have Lawyers, young Merchants, fine Sparks of the Town,</l>
+               <l>That I need not go ſlaving, and trudge up and down,</l>
+               <l>'Tis enough for ſuch threadbare poor Houſewives as you,</l>
+               <l>To go cruiſing about for a Teſter or two.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>You are but a Strumpet, your Friend to degrade,</l>
+               <l>Pray remember laſt Winter I learn'd you your Trade;</l>
+               <l>And altho' you have had greater Fortune than I,</l>
+               <l>Yet a Friend you have found me, you cannot deny;</l>
+               <l>When I took you with nothing both ragged and poor,</l>
+               <l>Nay, and lent you the Topping &amp; Gown which you wore.</l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>But Miſtreſs, quoth <hi>Margery,</hi> be not ſo hot,</l>
+               <l>For the uſe of your Cloaths, you had half what I got,</l>
+               <l>Which amounted ſometimes to a Crown in a day;</l>
+               <l>Therefore I to my Grief did ſufficiently pay</l>
+               <l>For the uſe of your Topping, black Patches and Fans,</l>
+               <l>And the beſt of my Work you took out of my hands.</l>
+            </lg>
+            <lg n="5">
+               <head>V.</head>
+               <l>You are but a Huſſy for telling me ſo,</l>
+               <l>They were none but my Quarterly Cullies you know;</l>
+               <l>Honeſt <hi>Thomas</hi> the Barber, and <hi>Robin</hi> the Cook;</l>
+               <l>Not a penny or farthing of Money I took;</l>
+               <l>But I truſted till they did their Wages receive,</l>
+               <l>And at this I was told, You did conſtantly grieve.</l>
+            </lg>
+            <lg n="6">
+               <head>VI.</head>
+               <l>'Tis falſe: pray remember the Counſellor's Clark,</l>
+               <l>Which I pick'd up my ſelf near the <hi>Strand</hi> in the dark,</l>
+               <l>Then I brought him home, thinking no harm I declare,</l>
+               <l>I agreed for a Guinea, he liked my Ware:</l>
+               <l>But you ogled him up to your Chamber above;</l>
+               <l>Thus I loſt a good Booty, a Pox of your Love.</l>
+            </lg>
+            <lg n="7">
+               <head>VII.</head>
+               <l>The reaſon of that I will preſently clear,</l>
+               <l>He had been my own Cully full three or four year;</l>
+               <l>He gives freely two Guineys, you bargain'd for one,</l>
+               <l>Now I then underſtanding ſtreight what you had done,</l>
+               <l>I endeavour'd to get him from you in a trice,</l>
+               <l>I being reſolved to keep up the Price.</l>
+            </lg>
+            <lg n="8">
+               <head>VIII.</head>
+               <l>But how did you keep up the price, when you brought</l>
+               <l>Home a Taylor, who gave you no more than a Groat?</l>
+               <l>It is very well known I ne'er wrought at that rate,</l>
+               <l>I would lye ſtill a Month e'er a penny I'd bate</l>
+               <l>Of a Guinea, and that ſhall be honeſtly pay'd,</l>
+               <l>It is ſuch Jilts as you that have run down the Trade.</l>
+            </lg>
+            <lg n="9">
+               <head>IX.</head>
+               <l>You ſee my rich Topping both gaudy and gay,</l>
+               <l>I am Coach'd from a Tavern, a Ball, or a Play;</l>
+               <l>Whilſt you here in a Tawdry Dreſs walk the ſtreet,</l>
+               <l>And are glad of a 'Prentice, or whom you can meet;</l>
+               <l>I'll not ſpend my Breath on you, and therefore adieu</l>
+               <l>'Tis a Scandal for me to ſtand talking to you.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>P. Brooksby, J. Deacon , J. Blare,</hi> and <hi>J. Back.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
